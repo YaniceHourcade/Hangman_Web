@@ -6,7 +6,7 @@
 
 ## Installation 
 
-    git clone https://ytrack.learn.ynov.com/git/hyanice/Hangman_web.git
+    git clone https://github.com/YaniceHourcade/Hangman_Web.git
 
 ## Utilisation 
 
