@@ -1,0 +1,213 @@
+body {
+    background-image: url("fond_bleu.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 20px;
+    padding: 0;
+}
+
+h1 {
+    font-size: 500%;
+    font-family: cursive;
+    text-align: center;
+    text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);    
+}
+
+h3 {
+    font-size: 500%;
+    font-family: cursive;
+    text-align: center;
+    text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15); 
+}
+
+p {
+    text-align: center;
+}
+
+.goodluck {
+    font-size: 200%;
+    font-family: cursive;
+    text-shadow: 3px 2px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);  
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    border: 3px solid black;
+    background-color: black;
+    height: 50vh;
+    border-radius: 25px;
+}
+
+a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Impact, fantasy;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.bacceuil1 {
+    margin: 15px;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 30vw;
+    border-radius: 25px;
+    transition: background-color 0.5s, color 0.5s;
+    font-size: 450%;
+    background-color: #20c24030;
+}
+
+.bacceuil1:hover {
+    background-color: #20c240;
+    color: #000000;
+    margin: 10px;
+    font-size: 475%;
+}
+
+.bacceuil2 {
+    margin: 15px;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 30vw;
+    border-radius: 25px;
+    transition: background-color 0.5s, color 0.5s;
+    font-size: 450%;
+    background-color: #d2840e30;
+}
+
+.bacceuil2:hover {
+    background-color: #d2840e;
+    color: #000000;
+    margin: 10px;
+    font-size: 475%;
+}
+
+.bacceuil3 {
+    margin: 15px;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 30vw;
+    border-radius: 25px;
+    transition: background-color 0.5s, color 0.5s;
+    font-size: 450%;
+    background-color: #c8212130
+}
+
+.bacceuil3:hover {
+    background-color: #c82121;
+    color: #000000;
+    margin: 10px;
+    font-size: 475%;
+}
+
+.leaderboard {
+    background-color: black;
+    border: 5px solid black;
+    margin-top: 25px;
+    border-radius: 25px;
+    height: 10vh;
+    cursor: pointer;
+    font-size: 300%;
+    transition: background-color 0.5s, color 0.5s;
+}
+
+.leaderboard:hover {
+    background-color: #1393ba00;
+    color: #000000;
+    font-size: 325%;
+}
+
+.return {
+    background-color: rgba(0, 0, 0, 0.800);
+    border: 5px solid black;
+    margin-top: 25px;
+    border-radius: 25px;
+    height: 10vh;
+    cursor: pointer;
+    font-size: 300%;
+    transition: background-color 0.5s, color 0.5s;
+}
+
+.return:hover {
+    background-color: #1393ba00;
+    color: #000000;
+    font-size: 325%;
+}
+
+.container1 {
+    background-color: #c8212100;
+    height: 47vh;
+    padding: 25px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+.block1 {
+    background-color: rgba(0, 0, 0, 0.900);
+    height: 45vh;
+    align-items: center;
+    margin: 80px;
+    padding: 10px;
+    cursor: pointer;
+    width: 30vw;
+    border-radius: 25px;
+    font-size: 100%;
+    color: white;
+}
+
+.block2 {
+    background-color: rgba(0, 0, 0, 0.900);
+    height: 45vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 80px;
+    padding: 10px;
+    cursor: pointer;
+    width: 30vw;
+    border-radius: 25px;
+    font-size: 400%;
+    color: white;
+}
+
+.page {
+    font-size: 200%;
+    font-family: cursive;
+
+}
+
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 25px;
+    background-color: #0b787b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+button:hover {
+    background-color: #034e5a;
+}
+
+input[type="text"][name="message"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+
+
+
