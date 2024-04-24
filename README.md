@@ -1,7 +1,5 @@
 # HangmanWeb - Ynov
 
-## Noé, Dylan et Yanice
-
 ## Objectif
 
     Créer un site web en Golang, HTML et CSS nous permettant de jouer au pendu sur un serveur local.
